@@ -4,7 +4,9 @@ import afspraak from '../assets/dentist.svg';
 import {Link} from "react-router-dom";
 
 function AppointmentsPage() {
-  return (
+
+
+    return (
     <div className="page-container">
        <PageHeader icon={afspraak} title="Afspraken" />
        <p className="colums-3">
