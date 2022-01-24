@@ -13,15 +13,15 @@ function TopMenu() {
           </li>
 
           <li>
-            <NavLink to="/gaatjes" exact activeClassName="active-link">Gaatjes</NavLink>
+            <NavLink to="/gaatjes" activeClassName="active-link">Gaatjes</NavLink>
           </li>
 
           <li>
-            <NavLink to="/afspraak-maken" exact activeClassName="active-link">Afspraak maken</NavLink>
+            <NavLink to="/afspraak-maken" activeClassName="active-link">Afspraak maken</NavLink>
           </li>
 
           <li>
-            <NavLink to="/tanden-bleken" exact activeClassName="active-link">Tanden bleken</NavLink>
+            <NavLink to="/tanden-bleken" activeClassName="active-link">Tanden bleken</NavLink>
           </li>
         </ul>
       </div>
